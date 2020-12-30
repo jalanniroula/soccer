@@ -1,0 +1,8 @@
+.images{
+  width: 50%;
+  height: auto;
+  border: 3px solid #000;
+}
+.container-fluid{
+  width: 100%;
+}
